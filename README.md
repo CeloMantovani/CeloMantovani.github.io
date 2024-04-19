@@ -4,9 +4,9 @@
 #### Idiomas: Português (Nativo) | Inglês (Fluente)
 
 ## Educação
-- Ensino Médio | E.E.E.B. Dolores Alcaraz Caldas, Porto Alegre, Rio Grande do Sul, Brasil (_2018_)	
-- Tecnólogo , Jogos Digitais | UniRitter, Porto Alegre, Rio Grande do Sul, Brasil (_2020 - Presente_)	
-- Certificação, Arquitetura de Nuvem do AWS | Atualmente completando a certificação AWS Academy Cloud Architecting (_Previsão de Conclusão: 2024_)	
+Ensino Médio | E.E.E.B. Dolores Alcaraz Caldas, Porto Alegre, Rio Grande do Sul, Brasil (_2018_)	
+Tecnólogo , Jogos Digitais | UniRitter, Porto Alegre, Rio Grande do Sul, Brasil (_2020 - Presente_)	
+Certificação, Arquitetura de Nuvem do AWS | Atualmente completando a certificação AWS Academy Cloud Architecting (_Previsão de Conclusão: 2024_)	
 
 ## Experiência Profissional
 **Freelancer de Arte Digital, Especialista em Gráficos de Eventos, Administrativo | Mantovani Assessoria de Eventos (_Junho de 2022 - Presente_)**
