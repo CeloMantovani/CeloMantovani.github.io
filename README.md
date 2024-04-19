@@ -28,17 +28,17 @@ document.addEventListener("DOMContentLoaded", function() {
 </style>
 
 <!-- Adicione a classe "fade-in" a todo o texto -->
-<p class="fade-in">#### Habilidades Técnicas: Excel, PowerBI, Python, Java, C#, C++, JavaScript, GDScript, CSS,Blender, AutoCAD, Unity, Godot, SketchUp, Clip Studio Paint, Adobe Premiere, Adobe Photoshop, CorelDRAW, BitBar</p>
-<p class="fade-in">#### Idiomas: Português (Nativo) | Inglês (Fluente)</p>
+<p class="fade-in">####Habilidades Técnicas: Excel, PowerBI, Python, Java, C#, C++, JavaScript, GDScript, CSS,Blender, AutoCAD, Unity, Godot, SketchUp, Clip Studio Paint, Adobe Premiere, Adobe Photoshop, CorelDRAW, BitBar</p>
+<p class="fade-in">####Idiomas: Português (Nativo) | Inglês (Fluente)</p>
 
-<p class="fade-in">## Educação</p>
+<p class="fade-in">##Educação</p>
 <ul class="fade-in">
   <li>Ensino Médio: E.E.E.B. Dolores Alcaraz Caldas, Porto Alegre, Rio Grande do Sul, Brasil (_2018_)</li>
   <li>Tecnólogo , Jogos Digitais: UniRitter, Porto Alegre, Rio Grande do Sul, Brasil (_2020 - Presente_)</li>
   <li>Certificação, Arquitetura de Nuvem do AWS: Atualmente completando a certificação AWS Academy Cloud Architecting (_Previsão de Conclusão: 2024_)</li>
 </ul>
 
-<p class="fade-in">## Experiência Profissional</p>
+<p class="fade-in">##Experiência Profissional</p>
 <p class="fade-in"><strong>Freelancer de Arte Digital, Especialista em Gráficos de Eventos, Administrativo | Mantovani Assessoria de Eventos (_Junho de 2022 - Presente_)</strong></p>
 <ul class="fade-in">
   <li>Design de arte digital para diversas finalidades, desde identidade visual até materiais promocionais</li>
