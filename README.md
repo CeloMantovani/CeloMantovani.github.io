@@ -30,3 +30,4 @@
 - Desenvolvimento de fortes habilidades interpessoais por meio de interação constante com clientes e colegas.
 
 
+<script src="script.js"></script>
