@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
       
       setTimeout(function() {
         fadeIn(elements, index + 1);
-      }, 1200); // Ajuste o tempo de atraso conforme desejado (em milissegundos)
+      }, 800); // Ajuste o tempo de atraso conforme desejado (em milissegundos)
     }
   }
   fadeIn(elements, 0);
@@ -23,6 +23,8 @@ document.addEventListener("DOMContentLoaded", function() {
 }
 </style>
 
+<h4 class="fade-in">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  </h4>
+<h1 class="fade-in"> Marcelo Mantovani </h1>
 <h4 class="fade-in">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  </h4>
 <h4 class="fade-in">Habilidades Técnicas: Excel, PowerBI, Python, Java, C#, C++, JavaScript, GDScript, CSS,Blender, AutoCAD, Unity, Godot, SketchUp, Clip Studio Paint, Adobe Premiere, Adobe Photoshop, CorelDRAW, BitBar</h4>
 <h4 class="fade-in">Idiomas: Português (Nativo) | Inglês (Fluente)</h4>
