@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function() {
 }
 </style>
 
-
+<h4 class="fade-in">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  </h4>
 <h4 class="fade-in">Habilidades Técnicas: Excel, PowerBI, Python, Java, C#, C++, JavaScript, GDScript, CSS,Blender, AutoCAD, Unity, Godot, SketchUp, Clip Studio Paint, Adobe Premiere, Adobe Photoshop, CorelDRAW, BitBar</h4>
 <h4 class="fade-in">Idiomas: Português (Nativo) | Inglês (Fluente)</h4>
 
