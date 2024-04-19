@@ -29,6 +29,4 @@
 - Utilização de habilidades criativas de resolução de problemas para superar desafios e cumprir prazos apertados.
 - Desenvolvimento de fortes habilidades interpessoais por meio de interação constante com clientes e colegas.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
 
