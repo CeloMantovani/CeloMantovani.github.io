@@ -33,13 +33,13 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <h2 class="fade-in">Educação</h2>
 <ul class="fade-in">
-  <li>Ensino Médio: E.E.E.B. Dolores Alcaraz Caldas, Porto Alegre, Rio Grande do Sul, Brasil (_2018_)</li>
-  <li>Tecnólogo , Jogos Digitais: UniRitter, Porto Alegre, Rio Grande do Sul, Brasil (_2020 - Presente_)</li>
-  <li>Certificação, Arquitetura de Nuvem do AWS: Atualmente completando a certificação AWS Academy Cloud Architecting (_Previsão de Conclusão: 2024_)</li>
+  <li>Ensino Médio: E.E.E.B. Dolores Alcaraz Caldas, Porto Alegre, Rio Grande do Sul, Brasil (*2018*)</li>
+  <li>Tecnólogo , Jogos Digitais: UniRitter, Porto Alegre, Rio Grande do Sul, Brasil (*2020 - Presente*)</li>
+  <li>Certificação, Arquitetura de Nuvem do AWS: Atualmente completando a certificação AWS Academy Cloud Architecting (*Previsão de Conclusão: 2024*)</li>
 </ul>
 
 <h2 class="fade-in">Experiência Profissional</h2>
-<p class="fade-in"><strong>Freelancer de Arte Digital, Especialista em Gráficos de Eventos, Administrativo | Mantovani Assessoria de Eventos (_Junho de 2022 - Presente_)</strong></p>
+<p class="fade-in"><strong>Freelancer de Arte Digital, Especialista em Gráficos de Eventos, Administrativo | Mantovani Assessoria de Eventos (*Junho de 2022 - Presente*)</strong></p>
 <ul class="fade-in">
   <li>Design de arte digital para diversas finalidades, desde identidade visual até materiais promocionais</li>
   <li>Desenvolvimento de visualizações de eventos em 3D realistas para comunicação eficaz durante as etapas de planejamento</li>
@@ -47,20 +47,20 @@ document.addEventListener("DOMContentLoaded", function() {
   <li>Participação ativa nas atividades administrativas, incluindo análise de dados, elaboração de planilhas, redigindo documentos e contratos.</li>
 </ul>
 
-<p class="fade-in"><strong>Operador de Caixa | Broto Saudável (_Janeiro de 2022 - Junho de 2022_)</strong></p>
+<p class="fade-in"><strong>Operador de Caixa | Broto Saudável (*Janeiro de 2022 - Junho de 2022*)</strong></p>
 <ul class="fade-in">
   <li>Prestação de atendimento ao cliente e gerenciamento de tele-entregas</li>
   <li>Análise e interpretação de dados para melhorar a eficiência operacional</li>
   <li>Trabalho próximo com membros da equipe para garantir uma experiência gastronômica positiva</li>
 </ul>
 
-<p class="fade-in"><strong>Operador de Caixa | Pizza D.O.C (_Junho de 2021 - Janeiro de 2022_)</strong></p>
+<p class="fade-in"><strong>Operador de Caixa | Pizza D.O.C (*Junho de 2021 - Janeiro de 2022*)</strong></p>
 <ul class="fade-in">
   <li>Operação como caixa e assistência em várias tarefas, incluindo preparo de pizzas e atividades de cozinha</li>
   <li>Adaptação rápida a novas responsabilidades e contribuição para um ambiente de trabalho dinâmico</li>
 </ul>
 
-<p class="fade-in"><strong>Equipe de Eventos | Mantovani Assessoria de Eventos (_Janeiro de 2017 - Março de 2020_)</strong></p>
+<p class="fade-in"><strong>Equipe de Eventos | Mantovani Assessoria de Eventos (*Janeiro de 2017 - Março de 2020*)</strong></p>
 <ul class="fade-in">
   <li>Colaboração com membros da equipe na montagem, planejamento e execução de eventos</li>
   <li>Utilização de habilidades criativas de resolução de problemas para superar desafios e cumprir prazos apertados.</li>
