@@ -15,12 +15,12 @@
 - Otimização e criação de plantas baixas de eventos
 - Participação ativa nas atividades administrativas, incluindo análise de dados, elaboração de planilhas, redigindo documentos e contratos.
 
-**operador de caixa | Broto Saudável (_Janeiro de 2022 - Junho de 2022_)**
+**Operador de Caixa | Broto Saudável (_Janeiro de 2022 - Junho de 2022_)**
 - Prestação de atendimento ao cliente e gerenciamento de tele-entregas
 - Análise e interpretação de dados para melhorar a eficiência operacional
 - Trabalho próximo com membros da equipe para garantir uma experiência gastronômica positiva
 
-**operador de caixa | Pizza D.O.C (_Junho de 2021 - Janeiro de 2022_)** 
+**Operador de Caixa | Pizza D.O.C (_Junho de 2021 - Janeiro de 2022_)** 
 - Operação como caixa e assistência em várias tarefas, incluindo preparo de pizzas e atividades de cozinha
 - Adaptação rápida a novas responsabilidades e contribuição para um ambiente de trabalho dinâmico
 
