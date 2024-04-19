@@ -33,9 +33,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <h2 class="fade-in">Educação</h2>
 <ul class="fade-in">
-  <li>Ensino Médio: E.E.E.B. Dolores Alcaraz Caldas, Porto Alegre, Rio Grande do Sul, Brasil (<em>2018</em>)</li>
-  <li>Tecnólogo , Jogos Digitais: UniRitter, Porto Alegre, Rio Grande do Sul, Brasil (<em>2020 - Presente</em>)</li>
-  <li>Certificação, Arquitetura de Nuvem do AWS: Atualmente completando a certificação AWS Academy Cloud Architecting (<em>Previsão de Conclusão: 2024</em>)</li>
+  <li>Ensino Médio | E.E.E.B. Dolores Alcaraz Caldas, Porto Alegre, Rio Grande do Sul, Brasil (<em>2018</em>)</li>
+  <li>Tecnólogo , Jogos Digitais | UniRitter, Porto Alegre, Rio Grande do Sul, Brasil (<em>2020 - Presente</em>)</li>
+  <li>Certificação, Arquitetura de Nuvem do AWS | Atualmente completando a certificação AWS Academy Cloud Architecting (<em>Previsão de Conclusão: 2024</em>)</li>
 </ul>
 
 <h2 class="fade-in">Experiência Profissional</h2>
