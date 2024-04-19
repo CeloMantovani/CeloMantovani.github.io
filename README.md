@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
       
       setTimeout(function() {
         fadeIn(elements, index + 1);
-      }, 1200); // Ajuste o tempo de atraso conforme desejado (em milissegundos)
+      }, 1200); // Adjust the delay time as desired (in milliseconds)
     }
   }
 
@@ -17,6 +17,13 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <style>
+/* Dark theme */
+body {
+  background-color: #1a1a1a; /* Dark background color */
+  color: #ffffff; /* Inverted text color */
+}
+
+/* Fading effect */
 .fade-in {
   opacity: 0;
   transition: opacity 0.5s ease-in-out;
