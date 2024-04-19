@@ -19,8 +19,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <style>
 /* Dark theme */
 body {
-  background-color: #1a1a1a; /* Dark background color */
-  color: #ffffff; /* Inverted text color */
+  background-color: ##4d4d4d; /* Dark background color */
 }
 
 /* Fading effect */
