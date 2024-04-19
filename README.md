@@ -1,39 +1,23 @@
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   var elements = document.querySelectorAll('.fade-in');
-
   function fadeIn(elements, index) {
     if (index < elements.length) {
       elements[index].classList.add('show');
       
       setTimeout(function() {
         fadeIn(elements, index + 1);
-      }, 1200); 
+      }, 1200); // Ajuste o tempo de atraso conforme desejado (em milissegundos)
     }
   }
-
   fadeIn(elements, 0);
 });
 </script>
-
 <style>
-/* Dark theme */
-body {
-  background-color: #1a1a1a; 
-  color: #ffffff; 
-}
-
-
-h2, h4, p, li, em {
-  color: #ffffff !important;
-}
-
-/* Fading effect */
 .fade-in {
   opacity: 0;
   transition: opacity 0.5s ease-in-out;
 }
-
 .fade-in.show {
   opacity: 1;
 }
